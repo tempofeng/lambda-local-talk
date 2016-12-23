@@ -1,5 +1,3 @@
-rootProject.name = 'lambda-local-talk'
-include 'lambda-proxy'
 include 'lambda-hello'
 include 'lambda-local-hello'
 
